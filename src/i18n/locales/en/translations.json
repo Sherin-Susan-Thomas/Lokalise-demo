@@ -1,7 +1,7 @@
 {
-    "home": "lblhome",
-    "page4": "lblPageNumber4",
-    "welcome to hello": "lblWelcome",
-    "Submit.": "lblSubmit",
-    "check": "lblcheck"
+    "home": "home",
+    "page4": "page4",
+    "welcome to hello": "welcome to hello",
+    "Submit.": "Submit",
+    "check": "check"
 }
