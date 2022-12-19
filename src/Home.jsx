@@ -28,11 +28,11 @@ class Home extends Component {
 
     return (
       <div className="body">
-        <p> {t('welcome to hello')} </p>
+        <p> {t('lblWelcome')} </p>
         <div>
           <label> Change your username: </label>{" "}
           <input type="text" onChange={this.updateUsername.bind(this)} />{" "}
-          <button onClick={this.setUsername.bind(this)}> {t('Submit')} </button>{" "}
+          <button onClick={this.setUsername.bind(this)}> {t('lblSubmit')} </button>{" "}
         </div>
         <p>
           {" "}

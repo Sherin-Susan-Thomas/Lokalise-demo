@@ -7,7 +7,7 @@ const Nav = () => {
   return (
     <header className="nav" >
     <div > i18n React Demo </div>{" "} 
-    <div ><Link to="/" >{t('Home')} </Link> <Link to="/page2 "> {t('page4')}</Link>
+    <div ><Link to="/" >{t('lblhome')} </Link> <Link to="/page2 "> {t('lblPageNumber4')}</Link>
     {" "} </div>{" "} 
     </header>
   );
