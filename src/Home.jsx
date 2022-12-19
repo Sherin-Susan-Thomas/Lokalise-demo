@@ -28,7 +28,7 @@ class Home extends Component {
 
     return (
       <div className="body">
-        <p> {t('lblWelcome')} </p>
+        <p> {t('welcome to hello')} </p>
         <div>
           <label> Change your username: </label>{" "}
           <input type="text" onChange={this.updateUsername.bind(this)} />{" "}
