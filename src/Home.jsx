@@ -32,7 +32,7 @@ class Home extends Component {
         <div>
           <label> Change your username: </label>{" "}
           <input type="text" onChange={this.updateUsername.bind(this)} />{" "}
-          <button onClick={this.setUsername.bind(this)}> {t('lblSubmit')} </button>{" "}
+          <button onClick={this.setUsername.bind(this)}> {t('Submit')} </button>{" "}
         </div>
         <p>
           {" "}
