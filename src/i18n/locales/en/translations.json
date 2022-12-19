@@ -1,4 +1,5 @@
 {
     "home": "lblhome",
-    "page2": "lblPageNumber2"
+    "page2": "lblPageNumber2",
+    "welcome": "lblWelcome"
 }

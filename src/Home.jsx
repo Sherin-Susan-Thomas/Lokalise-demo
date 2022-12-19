@@ -1,6 +1,6 @@
 import React, { Component } from "react";
 import { Link } from "react-router-dom";
-
+import { useTranslation } from 'react-i18next';
 class Home extends Component {
   constructor() {
     super();
@@ -28,7 +28,7 @@ class Home extends Component {
 
     return (
       <div className="body">
-        <p> Welcome, {username} </p>
+        <p> Welcome </p>
         <div>
           <label> Change your username: </label>{" "}
           <input type="text" onChange={this.updateUsername.bind(this)} />{" "}
