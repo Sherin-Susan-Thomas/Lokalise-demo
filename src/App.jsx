@@ -3,6 +3,7 @@ import { Switch, Route } from 'react-router-dom';
 import Nav from './Nav';
 import Home from './Home';
 import Page2 from './Page2';
+import './i18n/config';
 import Footer from './Footer';
 
 function App() {
