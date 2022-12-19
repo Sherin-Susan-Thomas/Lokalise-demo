@@ -1,6 +1,6 @@
 {
-    "home": "lblhome",
-    "page2": "lblPageNumber2",
-    "welcome": "lblWelcome",
-    "Submit": "lblSubmit"
+    "lblhome": "home",
+    "lblPageNumber2": "page2",
+    "lblWelcome": "welcome",
+    "lblSubmit": "welcome",
 }
