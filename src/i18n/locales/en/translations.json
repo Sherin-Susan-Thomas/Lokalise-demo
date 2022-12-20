@@ -6,7 +6,8 @@
     "username": "username",
     "password": "password",
     "Signup": "Signup. Click here",
-    "Signin": "Signin"
+    "Signin": "Signin here",
+    "hello": "hello"
 
 
 }
